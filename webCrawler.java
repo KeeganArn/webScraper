@@ -191,5 +191,4 @@ public class webCrawler {
         }
     }
 }
-//Original code from https://www.zenrows.com/blog/jsoup-403#web-scraping-api 
-//Modified by keegan arnold to use Java.io to save html information to txt
+
